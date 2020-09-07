@@ -18,3 +18,5 @@ A partir do MEGA HACK WOMEN, estamos criando esse site integrado com a plataform
 ----
 
 Compartilhamos com vocês GIRLS, nossa plataforma GPTI.
+
+Video demo, solução completa (Site e app): https://drive.google.com/file/d/1yRzdOjCeks2ltz17HR5Ym50jTgZh8-8L/view?usp=sharing
